@@ -1,3 +1,3 @@
 # Machine-Learning-algorithms
 
-## supervised and unsupervised learning
+## supervised and unsupervised learning algorithms
